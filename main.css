@@ -1,0 +1,22 @@
+body{
+    background-color:darkblue'
+}
+.button{
+    border:black;
+    color:white;
+    padding:13px 25px;
+    text-align:center;
+    text-decoration:double;
+    display:grid;
+    font-size:15px;
+    margin:4px 4px;
+    cursor:pointer;
+}
+.button1{background-color:lightblue;}
+.button2{background color:#475c57;}
+h2{
+    color:palevioletred;
+}
+h3{
+    color:silver;
+}
